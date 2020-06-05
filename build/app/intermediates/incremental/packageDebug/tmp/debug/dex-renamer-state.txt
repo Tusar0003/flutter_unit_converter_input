@@ -1,0 +1,4 @@
+#Thu Jun 04 23:33:29 BDT 2020
+base.0=E\:\\FlutterProjects\\Udacity\\flutter_unit_converter_input\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
